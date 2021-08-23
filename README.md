@@ -5,4 +5,4 @@ Generalized Gini distance statistics
 If you use Gini_distance_statistics in your published work, please cite:
 
 
-Zhang, S., Dang, X., Nguyen, D., Wilkins, D., & Chen, Y. (2019). <a href="https://arxiv.org/pdf/1906.02171.pdf">Estimating Feature-Label Dependence Using Gini Distance Statistics. arXiv preprint arXiv:1906.02171.
+S. Zhang, X. Dang, D. Nguyen, D. Wilkins and Y. Chen, "Estimating Feature-Label Dependence Using Gini Distance Statistics," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 43, no. 6, pp. 1947-1963, 1 June 2021, doi: 10.1109/TPAMI.2019.2960358.
